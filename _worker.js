@@ -1,5 +1,5 @@
 const BOT_TOKEN = '8187353779:AAGps6cekrxUmKvYnXV9janleVGRd3wYuE8';
-const API_URL = `https://api.telegram.org/bot${8187353779:AAGps6cekrxUmKvYnXV9janleVGRd3wYuE8}/`;
+const API_URL = `t.me/Kaisarvpn_bot${8187353779:AAGps6cekrxUmKvYnXV9janleVGRd3wYuE8}/`;
 
 const checkProxyUrl = 'https://prod-test.jdevcloud.com/check';
 const geoIpUrl = 'https://api.ip.sb/geoip/';
